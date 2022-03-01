@@ -1,0 +1,1 @@
+this is an exmaple of test document and this is a static file.
